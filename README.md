@@ -1,2 +1,2 @@
-# HW6
+# HW6WAPI
 weather API
